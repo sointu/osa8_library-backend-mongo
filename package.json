@@ -1,0 +1,19 @@
+{
+  "name": "library-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.15",
+    "graphql": "^14.5.8",
+    "uuid": "^3.3.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.0",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
